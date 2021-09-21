@@ -14,13 +14,13 @@ organizations:
   url: https://www.ucf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include educational technology and higher education.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Educational Technology
+- Higher Education
+- Learning Management Systems
 
 # Education to show in About widget
 education:
