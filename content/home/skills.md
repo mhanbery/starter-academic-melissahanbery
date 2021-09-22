@@ -17,15 +17,15 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: :black_nib:
+  icon: "black_nib"
   icon_pack: "emoji"
   name: Policy Review
 - description: 100%
-  icon: :gear:
+  icon: "gear"
   icon_pack: "emoji"
   name: Business Processes
 - description: 70%
-  icon: :open_book:
+  icon: "open_book"
   icon_pack: "emoji"
   name: Research
 
