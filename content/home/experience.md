@@ -30,7 +30,7 @@ experience:
     date_start: '2015-09-01'
     date_end: ''
     description:|2-
-        Responsibilities include:
+    Responsibilities include:
         
         * Business Processes
         * Policy Review and Implementation
