@@ -17,17 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
+  icon: :black_nib:
+  icon_pack: "emoji"
+  name: Policy Review
 - description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: :gear:
+  icon_pack: "emoji"
+  name: Business Processes
+- description: 70%
+  icon: :open_book:
+  icon_pack: "emoji"
+  name: Research
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
