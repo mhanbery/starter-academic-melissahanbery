@@ -19,7 +19,7 @@ bio: My research interests include educational technology and higher education.
 # Interests to show in About widget
 interests:
 - Educational Technology
-- Higher Education
+- Higher Education Policy
 - Learning Management Systems
 
 # Education to show in About widget
