@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Business Systems Analyst 
     company: UCF
-    company_url: ''
+    company_url: 'www.ucf.edu'
     company_logo: 
     location: Florida
     date_start: '2015-09-01'
@@ -37,7 +37,7 @@ experience:
         
   - title: Academic Advisor
     company: UCF
-    company_url: ''
+    company_url: 'www.ucf.edu'
     company_logo: 
     location: Florida
     date_start: '2010-07-09'
