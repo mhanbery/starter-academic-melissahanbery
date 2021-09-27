@@ -38,11 +38,11 @@ experience:
   - title: Academic Advisor
     company: UCF
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: Florida
     date_start: '2010-07-09'
     date_end: '2015-09-01'
-    description: Provided academic planning and support to Regional Campuses students
+    description: Provided academic planning and support to Regional Campuses students  
 
 design:
   columns: '2'
