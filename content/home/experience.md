@@ -31,7 +31,6 @@ experience:
     date_end: ''
     description:|2-
     Responsibilities include:
-        
         * Business Processes
         * Policy Review and Implementation
         * Educational Technology
