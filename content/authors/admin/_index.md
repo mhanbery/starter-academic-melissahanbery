@@ -25,15 +25,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master of Education
+  - course: Graduate Certificate, Instructional Design
+    institution: University of Central Florida
+    year: In progress
+    course: Master of Education
     institution: University of Florida
     year: 2007
   - course: Bachelor of Science, Journalism
     institution: University of Florida
     year: 2000
-  - course: Graduate Certificate, Instructional Design
-    institution: University of Central Florida
-    year: In progress
+  - 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
