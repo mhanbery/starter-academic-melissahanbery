@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: 'forest'
 day_night: true
 font: ''
 font_size: L
@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: mkhanbery@gmail.com
-phone: 888 888 88 88
+email: 'mkhanbery@gmail.com'
+phone: ''
 address:
   street: 
   city: Orlando
@@ -33,22 +33,22 @@ address:
 
 appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
+  - icon: 'twitter'
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+  - icon: ''
+    icon_pack: 'fab'
+    name: ''
+    link: ''
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
-    link: 'https://keybase.io/'
+    link: ''
   - icon: comments
     icon_pack: fas
     name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: ''
 
 # Site header
 
