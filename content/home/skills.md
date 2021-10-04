@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-description: "90%"
-  icon: "black_nib"
-  icon_pack: "emoji"
-  name: "Policy Review"
-- description: "100%"
-  icon: "gear"
-  icon_pack: "emoji"
-  name: "Business Processes"
-- description: "70%"
-  icon: "open_book"
-  icon_pack: "emoji"
-  name: "Research"
+description: ''
+  icon: ''
+  icon_pack: ''
+  name: ''
+- description: ''
+  icon: ''
+  icon_pack: ''
+  name: ''
+- description: ''
+  icon: ''
+  icon_pack: ''
+  name: ''
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
