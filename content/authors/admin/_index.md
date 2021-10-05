@@ -19,21 +19,22 @@ bio: My research interests include the use of educational technology and its imp
 # Interests to show in About widget
 interests:
 - Educational Technology
-- Higher Education
+- Higher Education Policy
 - Learning Management Systems
 
 # Education to show in About widget
-education:
-  courses:
-  - course: Master of Education
+education:''
+  courses:''
+  - course: Graduate Certificate, Instructional Design
+    institution: University of Central Florida
+    year: In progress
+    course: Master of Education
     institution: University of Florida
     year: 2007
   - course: Bachelor of Science, Journalism
     institution: University of Florida
     year: 2000
-  - course: Graduate Certificate, Instructional Design
-    institution: University of Central Florida
-    year: In progress
+  - 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,7 +62,7 @@ email: "mkhanbery@gmail.com"
 highlight_name: true
 ---
 
-Melissa Hanbery is a first-year Texts & Technology PhD student at the University of Central Florida. Her research interests include learning management systems, instructional design, and higher education policy. She currently works in the Registrar's Office at UCF.
+Melissa Hanbery is a first-year Texts & Technology PhD student at the University of Central Florida. Her research interests include learning management systems, instructional design, and higher education policy. She currently works in the Registrar's Office at UCF. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
