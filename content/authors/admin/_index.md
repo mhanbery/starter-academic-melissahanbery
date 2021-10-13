@@ -26,7 +26,7 @@ interests:
 education:''
   courses:''
   - course: Graduate Certificate, Instructional Design
-    institution: University of Central Florida
+    institution: University of Central Florida.
     year: In progress
     course: Master of Education
     institution: University of Florida
