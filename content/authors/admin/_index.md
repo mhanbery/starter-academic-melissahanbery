@@ -29,7 +29,7 @@ education:''
     institution: University of Central Florida
     year: In progress
     course: Master of Education
-    institution: University of Florida.
+    institution: University of Florida
     year: 2007
   - course: Bachelor of Science, Journalism
     institution: University of Florida
