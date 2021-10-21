@@ -29,7 +29,7 @@ experience:
     location: 'Florida'
     date_start: '2015-09-01'
     date_end: ''
-    description:'|2-'
+    description:'|2-':
     Responsibilities include:
         * 'Business Processes'
         * 'Policy Review and Implementation'
