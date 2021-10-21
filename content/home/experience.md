@@ -29,7 +29,8 @@ experience:
     location: 'Florida'
     date_start: '2015-09-01'
     date_end: ''
-        Responsibilities include:
+    description:|2-
+    Responsibilities include:
         * 'Business Processes'
         * 'Policy Review and Implementation'
         * 'Educational Technology'
