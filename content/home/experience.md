@@ -31,7 +31,7 @@ experience:
 
         
   - title: 'Academic Advisor'
-    company: 'UCF'
+    company: 'University of Central Florida'
     company_url: 'www.ucf.edu'
     company_logo: 
     location: 'Florida'
